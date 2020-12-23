@@ -1,0 +1,59 @@
+# Source: Baldr's Basic Advice
+# https://www.torn.com/forums.php#/p=threads&f=61&t=16034448&b=0&a=0&to=18301173
+
+# Comments (lines starting with #) and empty lines will be ignored.
+# You only need an ID, but it's easier to keep track of your list when you at least have usernames.
+# The ID is always the first thing on the line and whatever comes after it is ignored by the program.
+# Meaning that it is there for your purposes only
+
+320161	crazydave
+522960	maverick1972
+488552	Mataifa
+#387822	russellkill <-- This line is a comment so it will be ignored
+566484	themastercheif
+298167	matt007
+#234429	Dragon_Reborn <-- This line is a comment so it will be ignored
+428732	Sachmo
+18798	tapper85
+476620	james2503
+472351	iBennett
+807823	wilash
+283188	MattG2006
+#796316	raysil <-- This line is a comment so it will be ignored
+316768	ilekilluall8
+153910	soldierx
+76096	DevilsBlood
+659852	mikeycallin1
+450465	HiredAssasin
+738073	warriorscode
+#284536	whiteshadow <-- This line is a comment so it will be ignored
+524912	Luciii
+263120	halfblood93
+524816	didil
+729174	fortunecookie
+251566	miz_b_haven
+519062	uber44
+1489357	Aceraven
+669996	Boylinger
+191060	nemesis2000
+454302	heva07
+684732	TEC07
+1046495	OwlByNite
+1199189	Bob_the_butler
+485156	ckirklin
+1399310	theking99218
+581300	srfshannon
+982173	RavagedFlamingo
+211286	andre_xavier
+810355	fanpi017
+469582	CasterZ
+652354	-Diablo-
+781161	xZULUx
+146715	shiela
+491724	indo
+233040	kracker65
+471136	Ahad
+688148	terrence_taylor
+442427	Man-u-4-Life
+588113	Morphine2man
+669588	PRlNCE
